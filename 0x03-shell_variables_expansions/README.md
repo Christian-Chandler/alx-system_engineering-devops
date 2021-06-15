@@ -1,0 +1,1 @@
+This *Shell* project covers the basics of shell initialization files, variables and expansions/substitutions.
